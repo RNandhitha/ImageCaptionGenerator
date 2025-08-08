@@ -8,9 +8,6 @@ A powerful AI-powered web application that generates human-like captions for **i
 ## 🚀 Installation and setup
 
 ```bash
-git clone https://github.com/keerthisaa/ImageCaptionGenerator.git
-cd ImageCaptionGenerator
-
 # Create and activate a virtual environment
 python -m venv image_caption_env
 
@@ -27,4 +24,5 @@ pip install -r requirements.txt
 python app.py
 
 #Then open http://localhost:5000 in your browser.
+
 
